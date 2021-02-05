@@ -1,0 +1,12 @@
+{
+  "@@locale": "uk",
+  "newNote": "Створити",
+  "save": "Зберегти",
+  "title": "Заголовок",
+  "content": "Зміст",
+  "editNote": "Редагувати",
+  "theFieldTitleOrContentCannotBeEmpty": "Поле \"Заголовок\" або \"Вміст\" не може бути порожнім. Введіть значення",
+  "doYouWantToDeleteThisNote": "Видалити цю нотатку?",
+  "cancel": "Скасувати",
+  "yes": "Так"
+}

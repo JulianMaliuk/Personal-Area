@@ -1,0 +1,12 @@
+{
+  "@@locale": "ru",
+  "newNote": "Создать",
+  "save": "Сохранить",
+  "title": "Заголовок",
+  "content": "Содержание",
+  "editNote": "Редактировать",
+  "theFieldTitleOrContentCannotBeEmpty": "Поле «Заголовок» или «Содержание» не может быть пустым. Пожалуйста, введите значение",
+  "doYouWantToDeleteThisNote": "Вы хотите удалить эту заметку?",
+  "cancel": "Отменить",
+  "yes": "Да"
+}

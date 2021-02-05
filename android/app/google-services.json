@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155596128288",
+    "project_id": "personal-area-db0b2",
+    "storage_bucket": "personal-area-db0b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155596128288:android:34fb265d2c73b58685bc45",
+        "android_client_info": {
+          "package_name": "com.julian.personal_area"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155596128288-bra807dvirjceb0mf226ud6a2smatli4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFqyuHHMyHfbtD9OFewYLOwsm8MaUgeBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155596128288-bra807dvirjceb0mf226ud6a2smatli4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
